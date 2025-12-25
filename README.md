@@ -1,25 +1,32 @@
 # RFC 8280 - Human Rights Protocol Considerations
 
-Este repositorio contiene el documento oficial **RFC 8280** publicado por el IETF en octubre de 2017.
+![IETF](https://img.shields.io/badge/IETF-RFC%208280-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+Este repositorio contiene el documento oficial **RFC 8280** del IETF (octubre 2017).
 
 ## ¿De qué trata?
-"Research into Human Rights Protocol Considerations"  
-Explora cómo el diseño de protocolos de Internet (HTTP, DNS, IP, etc.) puede afectar derechos humanos como:
-- Privacidad
+**"Research into Human Rights Protocol Considerations"**
+
+Explora cómo el diseño de protocolos de Internet impacta derechos humanos:
+- Privacidad y protección de datos
 - Libertad de expresión
 - Acceso a la información
-- Protección contra censura y vigilancia masiva
+- Resistencia a censura y vigilancia
 
-Autores: Niels ten Oever y Corinne Cath.
+**Autores:** Niels ten Oever y Corinne Cath
 
 ## Archivos
-- [`rfc8280.html`](rfc8280.html) → Versión limpia en HTML (fácil de leer en cualquier navegador)
+- [`rfc8280.html`](https://github.com/ramoncerda2025/rfc8280-human-rights-protocols/blob/main/rfc8280.html) → Versión limpia en HTML (recomendada, se ve bonito en navegador)
+- [`rfc8280.txt`](https://github.com/ramoncerda2025/rfc8280-human-rights-protocols/blob/main/rfc8280.txt) → Versión en texto plano
 
 ## ¿Por qué es importante?
-Es una guía para que ingenieros y diseñadores consideren el impacto ético y de derechos humanos desde la fase de diseño de protocolos ("human rights by design").
+Promueve **"human rights by design"** en la ingeniería de protocolos. Referencia clave en ética tecnológica y privacidad.
 
 ## Licencia
-El contenido del RFC es de dominio público (IETF).  
-Este repositorio usa licencia MIT.
+- Contenido del RFC: **Dominio público** (IETF)
+- Repositorio: **MIT**
 
-¡Siéntete libre de hacer fork, contribuir o usar este material!
+¡Forkea, comparte o contribuye! ⭐
+
+Enlace oficial IETF: https://www.rfc-editor.org/rfc/rfc8280.html
